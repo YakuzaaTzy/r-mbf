@@ -7,7 +7,7 @@ Script Crack Facebook🚶‍♂
 
 # Install Script
 
-$ pkg upgrade && pkg update
+$ pkg update && pkg upgrade
 
 $ pkg install python
 
